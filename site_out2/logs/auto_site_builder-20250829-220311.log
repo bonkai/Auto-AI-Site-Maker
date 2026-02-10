@@ -1,0 +1,6 @@
+2025-08-29 22:03:11 | INFO | Logging to ./site_out2/logs/auto_site_builder-20250829-220311.log
+2025-08-29 22:03:11 | INFO | Model: gpt-oss:120b | Iterations: 4 | Stream: True | Vision: True
+2025-08-29 22:03:11 | INFO | [1/4] Creating initial site…
+2025-08-29 22:04:19 | WARNING | Ollama stream failed (attempt 1/3): Expecting value: line 1 column 1 (char 0)
+2025-08-29 22:05:39 | WARNING | Ollama stream failed (attempt 2/3): Expecting value: line 1 column 1 (char 0)
+2025-08-29 22:07:14 | WARNING | Ollama stream failed (attempt 3/3): Expecting value: line 1 column 1 (char 0)

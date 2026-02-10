@@ -1,0 +1,6 @@
+2025-08-29 21:46:52 | INFO | Logging to ./eat_site/logs/auto_site_builder-20250829-214652.log
+2025-08-29 21:46:52 | INFO | Model: gpt-oss:120b | Iterations: 4 | Stream: True
+2025-08-29 21:46:52 | INFO | [1/4] Creating initial site…
+2025-08-29 21:46:52 | INFO | ⇢ Streaming model output (initial)…
+2025-08-29 21:49:06 | WARNING | Ollama stream failed (attempt 1/3): Failed to parse model JSON. First 400 chars:
+
